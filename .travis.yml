@@ -1,7 +1,10 @@
 language: node_js
 node_js:
   - 14.17.3
-script:
+install:
   - npm install
   - npm run build
-  - npm run develop
+  
+script:
+  - echo "Skipping tests, install/build OK"
+  
