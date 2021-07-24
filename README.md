@@ -2,7 +2,7 @@
 # Strapi - Mount Zonah
 ##### Aplicação em strapi para o "Mount Zonah Medical Center", GTA RP KK 2.0 server
 
-[![Build Status](https://travis-ci.org/ReenanCampos/strapi-mount-zonah.svg?branch=main)](https://travis-ci.org/ReenanCampos/strapi-mount-zonah)
+[![Build Status](https://travis-ci.com/ReenanCampos/strapi-mount-zonah.svg?branch=main)](https://travis-ci.com/ReenanCampos/strapi-mount-zonah)
 
 ## Instalação
 
